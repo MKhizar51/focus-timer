@@ -1,0 +1,63 @@
+/* Fonts */
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,regular,500,600,700,800,900,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:100,200,300,regular,500,600,700,100italic,200italic,300italic,italic,500italic,600italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Acme:regular);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+  text-wrap: none;
+}
+
+body {
+  background-color: #3d4849;
+  background-size: 375%;
+  text-align: center;
+  height: 100vh;
+}
+
+header {
+  margin: 0 5% 5% 5%;
+  font-size: larger;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: Rubik;
+  color: #fffff0;
+}
+#hrs,
+#min,
+#sec {
+  font-size: 18vw;
+  border-radius: 5%;
+  padding: 10px;
+  box-shadow: 5px 5px 10px black;
+  background-color: #00000025;
+  margin: 2%;
+  font-family: Roboto mono;
+  color: #f8f8f8;
+}
+#message {
+  padding: 10px;
+  font-family: Acme;
+  color: #fff;
+  font-size: 5vh;
+  text-align: left;
+  margin: 0 15vw;
+}
+footer {
+  background-color: azure;
+  bottom: 0;
+  color: black;
+  font-size: 1.125rem;
+  padding: 5px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+
+.author {
+  font-family: fantasy;
+  text-decoration: underline;
+}
