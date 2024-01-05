@@ -93,7 +93,7 @@ Tasbeeh Calculator is built using technologies:-
 
 <h2 id='how=to-contribute'>How to Contribute</h2>
 
-We welcome contributions from the community! If you would like to contribute to Tasbeeh Calculator, please follow these steps:
+We welcome contributions from the community! If you would like to contribute to Focus Timer, please follow these steps:
 
 1. Fork the repository
 
