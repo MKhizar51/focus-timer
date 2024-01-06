@@ -106,7 +106,7 @@ We welcome contributions from the community! If you would like to contribute to 
 
 <h2 id='license'>License</h2>
 
-This project is licensed under the **MIT License**. See the [LICENSE](<(https://github.com/MKhizar51/focus-timer/blob/main/LICENSE)>) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/MKhizar51/focus-timer/blob/main/LICENSE) file for details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
